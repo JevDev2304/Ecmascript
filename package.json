@@ -1,7 +1,7 @@
 {
   "name": "cursoecmascript",
   "version": "1.0.0",
-  "description": "",
+  "description": "- Ejercicios de aplicación para entender funciones nuevas en ecmascript. 🎯",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +12,16 @@
   ],
   "author": "Juan Valdés <juanesplatzi2304@gmail.com>",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JevDev2304/Ecmascript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JevDev2304/Ecmascript/issues"
+  },
+  "homepage": "https://github.com/JevDev2304/Ecmascript#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
 }
